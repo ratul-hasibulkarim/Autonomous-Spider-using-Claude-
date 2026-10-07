@@ -7,6 +7,8 @@ own LiDAR.
 
 ![walking the boulder field](docs/walk.gif)
 
+*Boulder field, seed 0, 2× speed. The robot's visuals are the CAD meshes from the part programs. Full real-time 75 s crossing: [`build/sim/walk_boulders_seed0.mp4`](build/sim/walk_boulders_seed0.mp4).*
+
 | | |
 |---|---|
 | **Parts** | **986**: 83 part numbers from 49 part programs |
