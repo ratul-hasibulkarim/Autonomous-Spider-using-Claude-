@@ -1,0 +1,93 @@
+{
+  "parts_checked": 242,
+  "bbox_pairs": 775,
+  "interferences": 0,
+  "pairs": [],
+  "sweeps": [
+    {
+      "sweep": "femur",
+      "angle_deg": -55.0,
+      "hits": []
+    },
+    {
+      "sweep": "femur",
+      "angle_deg": -35.0,
+      "hits": []
+    },
+    {
+      "sweep": "femur",
+      "angle_deg": -15.0,
+      "hits": []
+    },
+    {
+      "sweep": "femur",
+      "angle_deg": 5.0,
+      "hits": []
+    },
+    {
+      "sweep": "femur",
+      "angle_deg": 25.0,
+      "hits": []
+    },
+    {
+      "sweep": "femur",
+      "angle_deg": 45.0,
+      "hits": []
+    },
+    {
+      "sweep": "femur",
+      "angle_deg": 65.0,
+      "hits": []
+    },
+    {
+      "sweep": "knee",
+      "angle_deg": 10.0,
+      "hits": []
+    },
+    {
+      "sweep": "knee",
+      "angle_deg": 29.2,
+      "hits": []
+    },
+    {
+      "sweep": "knee",
+      "angle_deg": 48.3,
+      "hits": []
+    },
+    {
+      "sweep": "knee",
+      "angle_deg": 67.5,
+      "hits": []
+    },
+    {
+      "sweep": "knee",
+      "angle_deg": 86.7,
+      "hits": []
+    },
+    {
+      "sweep": "knee",
+      "angle_deg": 105.8,
+      "hits": []
+    },
+    {
+      "sweep": "knee",
+      "angle_deg": 125.0,
+      "hits": []
+    },
+    {
+      "sweep": "L1-L2 coxa +-25deg",
+      "angle_deg": 25.0,
+      "hits": []
+    },
+    {
+      "sweep": "L2-L3 coxa +-25deg",
+      "angle_deg": 25.0,
+      "hits": []
+    },
+    {
+      "sweep": "L3-L4 coxa +-25deg",
+      "angle_deg": 25.0,
+      "hits": []
+    }
+  ]
+}

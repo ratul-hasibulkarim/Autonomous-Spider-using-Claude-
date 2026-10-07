@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# per-part outputs from running a single part program by hand
+build/parts/
+build/model/_urdf_check.urdf

@@ -1,0 +1,84 @@
+number,name,qty,unit_g,total_g,category,material,vendor,program
+BRG-625-2RS,Ball bearing 625-2RS,8,4.70,37.6,bearing,Steel-52100,SKF,spider/parts/ball_bearing.py
+BRG-6805-2RS,Ball bearing 6805-2RS,24,22.00,528.0,bearing,Steel-52100,SKF,spider/parts/ball_bearing.py
+HAR-PWRCAN-110,Power/CAN harness 110 mm,4,14.06,56.2,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-140,Power/CAN harness 140 mm,8,15.44,123.5,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-150,Power/CAN harness 150 mm,8,15.90,127.2,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-180,Power/CAN harness 180 mm,1,17.28,17.3,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-260,Power/CAN harness 260 mm,1,20.96,21.0,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-290,Power/CAN harness 290 mm,1,22.34,22.3,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-340,Power/CAN harness 340 mm,1,24.64,24.6,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-360,Power/CAN harness 360 mm,1,25.56,25.6,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-400,Power/CAN harness 400 mm,1,27.40,27.4,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-50,Power/CAN harness 50 mm,1,11.30,11.3,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-60,Power/CAN harness 60 mm,1,11.76,11.8,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-80,Power/CAN harness 80 mm,8,12.68,101.4,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-PWRCAN-90,Power/CAN harness 90 mm,12,13.14,157.7,cable,Cable,in-house harness,spider/parts/cable_assembly.py
+HAR-SENS-260,Load-cell cable 260 mm,8,9.46,75.7,cable,Cable,in-house harness,spider/parts/sensor_cable.py
+SP-1050,Bumper fairing,2,128.21,256.4,cast,PU-85A,in-house,spider/parts/bumper.py
+SP-2205,Foot pad PU 85A,8,83.31,666.5,cast,PU-85A,in-house,spider/parts/foot_pad.py
+SP-2202,Tibia tube CFRP 32x2,8,82.39,659.1,composite,CFRP,(spec) roll-wrapped CF,spider/parts/tibia_tube.py
+BAT-13S4P-21700,Battery 48 V 13S4P 21700 Li-ion w/ BMS,1,4208.00,4208.0,cots,COTS,(spec) custom pack,spider/parts/battery_pack.py
+GM-62-ENC,GM-62 gimbal motor with 14-bit encoder,2,210.00,420.0,cots,COTS,(spec) GM-62,spider/parts/gimbal_motor.py
+HTD5M-790-15,Timing belt HTD-5M 790 mm x 15,8,44.02,352.1,cots,Rubber-belt,Gates,spider/parts/timing_belt.py
+QDD-96-9,"QDD-96 leg actuator, 9:1, 110 N m peak",24,960.00,23040.0,cots,COTS,(spec) QDD-96,spider/parts/qdd_actuator.py
+ANT-DB-195,Dual-band antenna 195 mm,2,28.00,56.0,electronic,COTS,(spec) antenna,spider/parts/antenna.py
+CAM-STEREO-95,Stereo depth camera 95 mm baseline,1,72.00,72.0,electronic,COTS,(spec) stereo cam,spider/parts/stereo_camera.py
+CANFD-4CH,CAN-FD interface 4-channel,1,60.00,60.0,electronic,PCB,(spec) CAN-FD,spider/parts/can_interface.py
+DCDC-48-12V,DC-DC converter 48 V -> 12 V,1,135.00,135.0,electronic,COTS,(spec) DC-DC brick,spider/parts/dcdc_converter.py
+DCDC-48-5V,DC-DC converter 48 V -> 5 V,1,135.00,135.0,electronic,COTS,(spec) DC-DC brick,spider/parts/dcdc_converter.py
+DRV-FOC-48V40A,FOC motor driver 48 V 40 A CAN-FD,26,72.00,1872.0,electronic,PCB,(spec) FOC-40,spider/parts/motor_driver.py
+ESTOP-40,"Emergency stop 40 mm mushroom, NC x2",1,110.00,110.0,electronic,COTS,(spec) IEC 60947-5-5,spider/parts/estop_button.py
+ETH-SW-5G,Gigabit Ethernet switch 5-port,1,50.00,50.0,electronic,PCB,(spec) GbE switch,spider/parts/ethernet_switch.py
+IMU-6DOF-T,Tactical IMU 6-DOF 400 Hz,1,55.00,55.0,electronic,COTS,(spec) IMU,spider/parts/imu.py
+JETSON-AGX-ORIN-64,Jetson AGX Orin 64GB + carrier + heatsink,1,1100.00,1100.0,electronic,COTS,NVIDIA,spider/parts/jetson_orin.py
+LC-500N-25,"Button load cell 500 N, foot contact",8,28.00,224.0,electronic,COTS,(spec) load cell,spider/parts/foot_load_cell.py
+LED-BEACON-40,RGB status beacon 40 mm,1,45.00,45.0,electronic,COTS,(spec) beacon,spider/parts/status_light.py
+LIDAR-3D-128,3D LiDAR 128-ch 360x90 deg,1,830.00,830.0,electronic,COTS,(spec) 3D-LiDAR,spider/parts/lidar_3d.py
+PDB-48V-4CH,Power distribution board 48 V 4-branch,1,280.00,280.0,electronic,PCB,in-house PCBA,spider/parts/power_board.py
+CT-2.5x100,"Cable tie 2.5 x 100 mm, PA66",32,0.17,5.4,fastener,Nylon-66,HellermannTyton,spider/parts/cable_tie.py
+DIN471-25,Retaining ring DIN 471 for 25 mm shaft,16,3.32,53.1,fastener,Spring-steel,DIN 471,spider/parts/circlip.py
+DIN985-M4,Nylon-insert lock nut M4 A2,8,1.15,9.2,fastener,Stainless-A2,DIN 985,spider/parts/hex_nut.py
+DIN985-M5,Nylon-insert lock nut M5 A2,24,1.38,33.2,fastener,Stainless-A2,DIN 985,spider/parts/hex_nut.py
+ISO4762-M3x25,Socket head cap screw M3x25 12.9,32,1.86,59.6,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M3x6,Socket head cap screw M3x6 12.9,16,0.81,12.9,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M3x8,Socket head cap screw M3x8 12.9,60,0.92,55.1,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M4x10,Socket head cap screw M4x10 12.9,150,2.03,304.6,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M4x12,Socket head cap screw M4x12 12.9,96,2.23,213.9,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M4x20,Socket head cap screw M4x20 12.9,48,3.02,144.8,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M5x10,Socket head cap screw M5x10 12.9,20,3.41,68.2,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M5x12,Socket head cap screw M5x12 12.9,4,3.72,14.9,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M5x25,Socket head cap screw M5x25 12.9,16,5.72,91.6,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M5x45,Socket head cap screw M5x45 12.9,8,8.81,70.4,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO4762-M6x12,Socket head cap screw M6x12 12.9,4,5.70,22.8,fastener,Steel-12.9,ISO 4762,spider/parts/shcs.py
+ISO7380-M4x10,Button head screw M4x10 A2,4,1.49,5.9,fastener,Stainless-A2,ISO 7380,spider/parts/bhcs.py
+ISO7380-M4x30,Button head screw M4x30 A2,4,3.47,13.9,fastener,Stainless-A2,ISO 7380,spider/parts/bhcs.py
+ISO7380-M4x35,Button head screw M4x35 A2,2,3.97,7.9,fastener,Stainless-A2,ISO 7380,spider/parts/bhcs.py
+ISO7380-M4x8,Button head screw M4x8 A2,14,1.29,18.0,fastener,Stainless-A2,ISO 7380,spider/parts/bhcs.py
+ISO7380-M5x10,Button head screw M5x10 A2,64,2.52,161.6,fastener,Stainless-A2,ISO 7380,spider/parts/bhcs.py
+ISO8734-4x12,Dowel pin 4x12 m6,8,1.17,9.4,fastener,Steel-52100,ISO 8734,spider/parts/dowel_pin.py
+SO-M3-10.0,Hex standoff M3 x 10.0 mm F-F,16,0.61,9.8,fastener,Al6061-T6,Keystone,spider/parts/standoff.py
+SO-M5-30.0,Hex standoff M5 x 30.0 mm F-F,32,6.21,198.7,fastener,Al6061-T6,Keystone,spider/parts/standoff.py
+SO-M5-50.0,Hex standoff M5 x 50.0 mm F-F,10,6.14,61.4,fastener,Al6061-T6,Keystone,spider/parts/standoff.py
+HTD5M-30T-15-B25,Timing pulley HTD-5M 30T bore 25,16,51.04,816.6,machined,Al6061-T6,in-house (from stock),spider/parts/htd_pulley.py
+SP-1001-bottom,"Chassis plate, bottom",1,2264.78,2264.8,machined,Al6061-anodized-black,in-house,spider/parts/chassis_plate.py
+SP-1001-top,"Chassis plate, top",1,2773.22,2773.2,machined,Al6061-anodized-black,in-house,spider/parts/chassis_plate.py
+SP-1060,Sensor mast weldment,1,154.00,154.0,machined,Al6061-T6,in-house,spider/parts/lidar_mast.py
+SP-1070,Pan bracket,1,114.27,114.3,machined,Al7075-T6,in-house,spider/parts/pan_bracket.py
+SP-1080,LiDAR tilt cradle,1,144.72,144.7,machined,Al7075-T6,in-house,spider/parts/tilt_cradle.py
+SP-2001,"Coxa yoke, monolithic",8,490.61,3924.9,machined,Al7075-T6,in-house,spider/parts/coxa_yoke.py
+SP-2102-bearing,"Femur side plate, bearing side",8,197.09,1576.7,machined,Al7075-T6,in-house,spider/parts/femur_side_plate.py
+SP-2102-hub,"Femur side plate, hub side",8,203.24,1625.9,machined,Al7075-T6,in-house,spider/parts/femur_side_plate.py
+SP-2103,Knee drive shaft,8,70.44,563.5,machined,Al7075-T6,in-house,spider/parts/knee_drive_shaft.py
+SP-2104,Knee axle,8,43.08,344.6,machined,Al7075-T6,in-house,spider/parts/knee_axle.py
+SP-2105,Belt idler roller,8,1.97,15.7,machined,POM,in-house,spider/parts/idler_roller.py
+SP-2201,Tibia knuckle,8,122.35,978.8,machined,Al7075-T6,in-house,spider/parts/tibia_knuckle.py
+SP-2203,Tibia foot ferrule,8,34.20,273.6,machined,Al6061-T6,in-house,spider/parts/tibia_ferrule.py
+SP-2204,Foot core,8,40.15,321.2,machined,Al6061-T6,in-house,spider/parts/foot_core.py
+SP-1040,Carry handle,2,70.82,141.6,printed,PA12-MJF,in-house,spider/parts/carry_handle.py
+SP-1090,Stereo camera bracket,1,16.75,16.8,printed,PA12-MJF,in-house,spider/parts/camera_bracket.py
+SP-3010-2,"Driver card cage, 2-slot",1,42.66,42.7,printed,PA12-MJF,in-house,spider/parts/driver_cage.py
+SP-3010-3,"Driver card cage, 3-slot",8,49.96,399.6,printed,PA12-MJF,in-house,spider/parts/driver_cage.py
+SP-1010,Bulkhead C-channel w/ PEM M4 nuts,2,86.71,173.4,sheet,Al6061-anodized-black,in-house,spider/parts/bulkhead.py
+SP-1020,Battery end clamp w/ PEM M4 nuts,2,35.73,71.5,sheet,Al6061-T6,in-house,spider/parts/battery_clamp.py
+SP-1030,Compute bay cover,1,616.64,616.6,sheet,Al6061-anodized-black,in-house,spider/parts/enclosure_cover.py
